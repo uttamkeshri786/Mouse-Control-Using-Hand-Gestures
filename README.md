@@ -1,5 +1,4 @@
-# FingerClick
-(https://ibb.co/mRVzxdk)
+# ![FingerClick](https://drive.google.com/file/d/1XyjUYHC4hyihpu8R0Y7nVn2i_rVVwsuL/view?usp=sharing)
 Gesture interaction with computers using OpenCV and Java.
 
 Author: [Uttam Keshri](https://www.linkedin.com/in/uttam-keshri-cs-engineer/)
